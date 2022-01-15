@@ -2,6 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.17.
 ## Development server
+Para ejecutar el proyecto , primero realizar npm install y luego continue con los pasos siguientes,
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 para ver el formulario de registro de personas ir a la siguiente url `http://localhost:4200/webpack-dev-server/CrearUsuarios`
